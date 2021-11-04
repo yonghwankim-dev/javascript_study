@@ -31,8 +31,8 @@ let otherObject = {
 otherObject.sayName = myObject.sayName;
 
 // sayName() 메서드 호출
-myObject.sayName();     // foo
-otherObject.sayName();  // bar
+myObject.sayName();     // Expected Output : foo
+otherObject.sayName();  // Expected Output : bar
 
 
 

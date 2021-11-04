@@ -7,9 +7,11 @@ function Person(name, age, gender){
     this.age = age;
     this.gender = gender;
     
+    // 명시적으로 다른 객체 반환
     return {name : 'bar', age:20, gender:'woman'};
 }
 
 var foo = new Person('foo');
-console.dir(foo);
+console.dir(foo); // Expected Output : Object {age : 20, gender : "woman", name : "bar"}
+
 

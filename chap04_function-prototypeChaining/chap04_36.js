@@ -10,7 +10,7 @@ function Person(name, age, gender){
 }
 
 var foo = new Person('foo',30,'man');
-console.dir(foo);
+console.dir(foo);   // Expected Output : Person {name : "foo", age : 30, gender : "man"}
 
 
 
