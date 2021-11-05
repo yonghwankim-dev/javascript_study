@@ -1,5 +1,5 @@
 ### INSIDE JAVASCRIPT 도서 코드 및 정리
-
+-   [Chapter01\_자바스크립트 기본 기요](https://yonghwankim-dev.tistory.com/160)
 -   [Chapter03\_자바스크립트 데이터 타입과 연산자](https://github.com/yonghwankim-dev/javascript_study/tree/main/chap03_dataType-operator)
     -   3.1 [자바스크립트 기본 타입](https://yonghwankim-dev.tistory.com/54?category=962746)
     -   3.2 [자바스크립트 참조 타입(객체 타입)](https://yonghwankim-dev.tistory.com/58?category=962746)
