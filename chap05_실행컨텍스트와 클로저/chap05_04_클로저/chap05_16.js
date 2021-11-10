@@ -6,7 +6,7 @@ function countSeconds(howMany){
     for(var i=1; i<=howMany; i++){
         console.log("for i : " + i);
         setTimeout(function(){
-            console.log(i);
+            console.log(i); // Expected Output : 1 2 3, Real Output : 4 4 4
         },i*1000);
     }
 }

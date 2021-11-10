@@ -15,4 +15,3 @@ var sumObj = {
 
 var func = callLater(sumObj,1,2);
 setTimeout(func,500);   // Expected Output : 3
-
