@@ -43,12 +43,12 @@ const inherit = function(Parent, Child){
         F.prototype = Parent.prototype;
         Child.prototype = new F();
         Child.prototype.constructor = Child;
-        Child.super = Person.prototype;
+        Child.super = Parent.prototype;
     };
 }();
 
 const kim = new Student();
-inherit(Person,kim);    // kim을 Person의 자식으로 설정
+inherit(Person,Student);    // kim을 Person의 자식으로 설정
 kim.setName("kim");
 console.log(kim.getName());    // Expected Output : kim
 

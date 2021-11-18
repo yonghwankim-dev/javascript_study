@@ -38,8 +38,6 @@ let subClass = function(){
     return subClass;
 }();
 
-
-
 const person = function(arg){
     let name = undefined;
 
