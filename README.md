@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### INSIDE JAVASCRIPT 도서 코드 및 정리
 -   [Chapter01\_자바스크립트 기본 개요](https://yonghwankim-dev.tistory.com/160?category=962746)
 -   Chapter03\_자바스크립트 데이터 타입과 연산자
@@ -19,3 +20,7 @@
     -   5.2 [실행 컨텍스트 생성 과정](https://yonghwankim-dev.tistory.com/162?category=962746)
     -   5.3 [스코프 체인](https://yonghwankim-dev.tistory.com/163?category=962746)
     -   5.4 [클로저](https://yonghwankim-dev.tistory.com/164?category=962746)
+=======
+# javascript_study
+자바스크립트 프로젝트를 수행하며 마주치는 문제에 대한 공부
+>>>>>>> 86fca8fa3419b8fa55d0ca4860726bda4dc4a44f
